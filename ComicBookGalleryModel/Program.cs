@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Data.Entity;
 
 namespace ComicBookGalleryModel
-{
+{//texting
     class Program
     {
         static void Main(string[] args)
